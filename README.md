@@ -23,6 +23,14 @@ In this repository, there are some notes referent to the **Core Web Vitals** (es
 <br />
 
 ## CLS (less than 100 ms)
+*Visual Stability*
+
+Measures the sum of all unexpected layout shifts that occur thoughout the lifespan of a page.
+
+### Recommendations to prevent or address it:
+
+* Ensure images include width and height (update to WP 5.5) -> *That prevents content to shift around when images are finally loaded by making the browser to reserve a space for them beforehand*.
+* Dynamic content: reserve space for content that renders dynamically (ads, JS widgets, social, login, discussion)
 
 <br />
 
