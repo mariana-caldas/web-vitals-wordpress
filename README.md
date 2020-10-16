@@ -15,15 +15,15 @@ In this repository, there are some notes referent to the **Core Web Vitals** (es
 
 <br />
 
-## LCP
+## LCP (less than 2.5 sec)
 
 <br />
 
-## CLS
+## CLS (less than 100 ms)
 
 <br />
 
-## FID
+## FID (less than 0.1)
 
 <br />
 
