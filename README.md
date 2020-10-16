@@ -26,7 +26,7 @@ Measures the render time of the largest content element (image or block of text)
 ### Recommendations to prevent or address it:
 
 * Optimize your featured/landing/banner/hero image.
-* Do not lazy-load images which are very likely to be in the initial viewport -> *How to remove lazy-load from those elements?*
+* Do not lazy-load images which are very likely to be in the initial viewport -> *How to disable lazy-loading from those elements? With [WP Rocket](https://jamesparsons.com/2020/08/remove-lazy-image-wprocket)*
 * Use an [image CDN](https://imagekit.io/blog/what-is-image-cdn-guide/) to ensure fastest image loads -> *How to select a good [CDN](https://kinsta.com/blog/wordpress-cdn/#:~:text=CDN%20is%20short%20for%20content,%2C%20JavaScript%2C%20and%20video%20streams.) for WP?*
 
 <br />
