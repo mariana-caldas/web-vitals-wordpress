@@ -43,7 +43,20 @@ Measures the sum of all unexpected layout shifts that occur thoughout the lifesp
 
 <br />
 
-## First Input Delay - FID (less than 0.1)
+## First Input Delay - FID (less than 100 ms)
+*Interactivity*
+
+Measures the time from when the user first interacts with the page until the time when the browser is actually able to respond to that interaction.
+*Total blocking time: if the main thread becomes blocked for long enough to prevent user input, how long is it blocked for?*
+
+### Recommendations to prevent or address it:
+
+* Look for CPU intensive scripts in plugin or theme code
+* Reduce script load/plugin boat
+* Simplify load - concatenate scripts/styles
+* Add [async](https://www.w3schools.com/tags/att_script_async.asp) tag to enqueued scripts when possible (if there is no dependencies)
+* Caching
+* Try [AMP-WP](https://amp-wp.org/)
 
 <br />
 
