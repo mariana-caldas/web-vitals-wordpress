@@ -12,6 +12,9 @@ In this repository, there are some notes referent to the **Core Web Vitals** (es
 2. **Interactivity** - *Is it responsive?*
 3. **Visual Stability** - *Is it delightful?*
 
+### Metric Tresholds
+
+![Metric Tresholds Image](https://github.com/MarianaSouza/web-vitals-wordpress/blob/main/metric-thresholds.png)
 
 <br />
 
