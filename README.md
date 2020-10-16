@@ -18,11 +18,20 @@ In this repository, there are some notes referent to the **Core Web Vitals** (es
 
 <br />
 
-## LCP (less than 2.5 sec)
+## Largest Content Paint - LCP (less than 2.5 sec)
+*Loading*
+
+Measures the render time of the largest content element (image or block of text) visible within the viewport.
+
+### Recommendations to prevent or address it:
+
+* Optimize your featured/landing/banner/hero image.
+* Do not lazy-load images which are very likely to be in the initial viewport -> *How to remove lazy-load from those elements?*
+* Use an [image CDN](https://imagekit.io/blog/what-is-image-cdn-guide/) to ensure fastest image loads.
 
 <br />
 
-## CLS (less than 100 ms)
+## Cumulative layout Shift - CLS (less than 100 ms)
 *Visual Stability*
 
 Measures the sum of all unexpected layout shifts that occur thoughout the lifespan of a page.
@@ -34,7 +43,7 @@ Measures the sum of all unexpected layout shifts that occur thoughout the lifesp
 
 <br />
 
-## FID (less than 0.1)
+## First Input Delay - FID (less than 0.1)
 
 <br />
 
