@@ -1,12 +1,31 @@
 # Web Vitals for WordPress
 
-In this repository, there are some notes referent to the Core Web Vitals especially related to WordPress
+In this repository, there are some notes referent to the **Core Web Vitals** (essential metrics that Google considers important in a webpage's overall user experience) especially related to WordPress.
+
+<br />
+
+## How do users experience or interact with my web products?
+
+### Pilars of UX
+
+1. **Loading** - *Is it happening?*
+2. **Interactivity** - *Is it responsive?*
+3. **Visual Stability** - *Is it delightful?*
+
+
+<br />
 
 ## LCP
 
+<br />
+
 ## CLS
 
+<br />
+
 ## FID
+
+<br />
 
 ### Web Vitals for WordPress Links
 
