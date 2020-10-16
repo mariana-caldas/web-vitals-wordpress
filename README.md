@@ -60,6 +60,17 @@ Measures the time from when the user first interacts with the page until the tim
 
 <br />
 
+## How to Measure the Core Web Vitals (CWV)
+
+* Lighthouse -> *Measures CWV by stimulating page load in a lab environment*
+* PageSpeed Insights -> *Reports page-level CWV measurements made by running Lighthouse (lab) as well pulling data from CrUX (field)
+* Chrome Dev Tools -> *Exposes LCP, CL, and TBT (Total Blocking Time - FID)*
+* CrUX -> *Provides an origin level report for all CWV across country, device, and connection type dimensions*
+* Google Search Console -> *Reports page-level CWV measurements made by pulling data from CrUX (field)*
+* Web Vitals Chrome Extension -> *Measures the CWV providing instant feedback on loading, interactivity, and layout shift metrics*
+
+<br />
+
 ### Web Vitals for WordPress Links
 
 * https://web.dev/vitals/
