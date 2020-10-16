@@ -1,9 +1,14 @@
 # Web Vitals for WordPress
 
-## Core Web Vitals for WordPress
+In this repository, there are some notes referent to the Core Web Vitals especially related to WordPress
 
+## LCP
 
-Web Vitals for WordPress Links
+## CLS
+
+## FID
+
+### Web Vitals for WordPress Links
 
 * https://web.dev/vitals/
 * https://web.dev/fid/
